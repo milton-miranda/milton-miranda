@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="title">
+  <title id="title">Vectrion and DataPlataforms — Data, AI and SaaS ecosystems</title>
+  <rect width="1280" height="260" rx="20" fill="#0d1725"/>
+  <path d="M640 35V225" stroke="#2b3c50"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="40" y="51" fill="#62ead5" font-size="14" letter-spacing="2">01 / FINANCE &amp; SECURITIZATION</text>
+    <text x="40" y="119" fill="#f1f6fc" font-size="44" font-weight="700">Vectrion</text>
+    <text x="40" y="163" fill="#acbed1" font-size="20">Applied intelligence for financial workflows.</text>
+    <text x="40" y="219" fill="#62ead5" font-size="16" letter-spacing="2">DATA  /  AI  /  SAAS</text>
+    <text x="680" y="51" fill="#a9baff" font-size="14" letter-spacing="2">02 / EDUCATION &amp; RESEARCH</text>
+    <text x="680" y="119" fill="#f1f6fc" font-size="44" font-weight="700">DataPlataforms</text>
+    <text x="680" y="163" fill="#acbed1" font-size="20">Software for knowledge-driven work.</text>
+    <text x="680" y="219" fill="#a9baff" font-size="16" letter-spacing="2">DATA  /  AI  /  SAAS</text>
+  </g>
+</svg>

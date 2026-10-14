@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">Milton Miranda — AI and Software Engineer</title>
+  <desc id="desc">Intelligent products, from application to infrastructure. Full Stack, AI, ML and Platform Engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#101d2b"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#62ead5"/><stop offset="1" stop-color="#87a9ff"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#97bdd7" stroke-opacity=".065"/></pattern>
+  </defs>
+  <rect width="1280" height="480" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="480" rx="24" fill="url(#grid)"/>
+  <rect x="56" y="55" width="32" height="4" rx="2" fill="#62ead5"/>
+  <text x="103" y="63" fill="#a8b8ca" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">SOFTWARE / INTELLIGENCE / SYSTEMS</text>
+  <text x="56" y="164" fill="#f1f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Milton Miranda</text>
+  <text x="58" y="220" fill="url(#accent)" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="600">AI &amp; Software Engineer</text>
+  <text x="58" y="282" fill="#c0cede" font-family="Segoe UI,Arial,sans-serif" font-size="23">Intelligent products, from application</text>
+  <text x="58" y="316" fill="#c0cede" font-family="Segoe UI,Arial,sans-serif" font-size="23">to infrastructure.</text>
+  <path d="M58 370H1220" stroke="#2b3c50"/>
+  <text x="58" y="418" fill="#a8b8ca" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="1">FULL STACK</text>
+  <text x="234" y="418" fill="#62ead5" font-family="Segoe UI,Arial,sans-serif" font-size="18">/</text>
+  <text x="270" y="418" fill="#a8b8ca" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="1">AI &amp; ML</text>
+  <text x="405" y="418" fill="#62ead5" font-family="Segoe UI,Arial,sans-serif" font-size="18">/</text>
+  <text x="441" y="418" fill="#a8b8ca" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="1">PLATFORM ENGINEERING</text>
+  <g transform="translate(980 208)" fill="none">
+    <circle r="133" stroke="#284258"/>
+    <circle r="96" stroke="#38556c" stroke-dasharray="3 9"/>
+    <path d="M0-133 115 66-115 66Z M0 133-115-66 115-66Z" stroke="#62ead5" stroke-opacity=".38" stroke-width="2"/>
+    <circle r="53" fill="#122a38" stroke="#62ead5" stroke-width="2"/>
+    <path d="m-16-15-15 15 15 15m32-30 15 15-15 15m-11 7 10-44" stroke="#b4f4e9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#62ead5"><circle cy="-133" r="6"/><circle cx="115" cy="66" r="6"/><circle cx="-115" cy="66" r="6"/></g>
+    <g fill="#87a9ff"><circle cy="133" r="5"/><circle cx="-115" cy="-66" r="5"/><circle cx="115" cy="-66" r="5"/></g>
+  </g>
+</svg>
